@@ -69,7 +69,6 @@ function createPoint() {
     // vy^2 = velocity^2 - vx^2
     vy2 = velocity2 - vx2;
     point.vy = getRandomVelocity();
-    point.lineWidth = Math.random(); // Random line width between 0 and 1
     points.push(point);
 }
 
@@ -83,7 +82,6 @@ function resetHalfVelocities() {
     for (var i = 0; i < points.length; i++) {
         var randomIndex = Math.floor(Math.random() * points.length);
         resetVelocity(points[randomIndex]);
-        points[randomIndex].lineWidth = Math.random(); // Random line width between 0 and 1
     }
 }
 
