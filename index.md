@@ -11,6 +11,6 @@ I'am a cybersecurity netrunner specialized in low-level research.
 
 ### Repositories
 
-[-Assembler-interpreter---Simulation-of-processor](/pages/main.md))
+[-Assembler-interpreter---Simulation-of-processor](/pages/main.md)
 
 
