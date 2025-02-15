@@ -11,6 +11,6 @@ I'am a cybersecurity netrunner specialized in low-level research.
 
 ### Repositories
 
-[-Assembler-interpreter---Simulation-of-processor](https://github.com/hexwreaker/-Assembler-interpreter---Simulation-of-processor/blob/main/readme.md)
+[-Assembler-interpreter---Simulation-of-processor](/pages/main.md))
 
-{% remote_include https://raw.githubusercontent.com/username/repo/main/README.md %}
+
