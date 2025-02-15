@@ -88,7 +88,6 @@ function resetHalfVelocities() {
 function drawCircle(x, y) {
     context.beginPath();
     context.arc(x, y, radius, 0, 2 * Math.PI, false);
-    context.fillStyle = '#97badc';
     context.fill();
 }
 
@@ -97,7 +96,7 @@ function drawLine(x1, y1, x2, y2, lineWidth) {
     context.beginPath();
     context.moveTo(x1, y1);
     context.lineTo(x2, y2);
-    context.strokeStyle = '#8affff';
+    context.strokeStyle = '#00F55A';
     context.stroke();
 }
 
