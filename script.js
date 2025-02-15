@@ -5,7 +5,7 @@ var points = [],
     radius = 5,
     boundaryX = window.innerWidth,
     boundaryY = window.innerHeight,
-    numberOfPoints = 30;
+    numberOfPoints = 40;
 
 function resizeCanvas() {
     canvas.width = window.innerWidth;
@@ -80,7 +80,7 @@ function resetVelocity(point) {
 
 function resetHalfVelocities() {
     // Reset velocities for half of the points
-    for (var i = 0; i < points.length / 2; i++) {
+    for (var i = 0; i < points.length; i++) {
         var randomIndex = Math.floor(Math.random() * points.length);
         resetVelocity(points[randomIndex]);
         points[randomIndex].lineWidth = Math.random(); // Random line width between 0 and 1
@@ -106,7 +106,7 @@ function drawLine(x1, y1, x2, y2, lineWidth) {
 var time = 0; // Global time variable
 
 function draw() {
-    time += 0.001; // Increment time for smooth variation
+    time += 0.002; // Increment time for smooth variation
 
     for (var i = 0, l = points.length; i < l; i++) {
         var point = points[i];
