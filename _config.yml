@@ -29,7 +29,6 @@ github_username:  hexwreaker
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-include-remote
   
 # Exclude from processing.
 # The following items will not be processed, by default.
