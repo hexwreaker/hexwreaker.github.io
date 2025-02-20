@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hexwreaker's page
+title: Hexwreaker blog
 ---
 
 # Hexwreaker blog
