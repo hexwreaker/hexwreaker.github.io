@@ -47,7 +47,7 @@ canvas {
     width: 60vw;
     min-height: 96vh;
     box-sizing: border-box;
-    margin: auto;
+    margin: 0px auto 50px auto;
     padding: 2vh 3vw;
     background-color: #fffffff4;
     border-radius: 2px;
