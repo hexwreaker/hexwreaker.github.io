@@ -2,6 +2,15 @@
     font-family: 'Arial';
 }
 
+img {
+    width: 100%;
+}
+
+#root-me-favicon {
+    width: 20px;
+    height: 20px;
+}
+
 body {
     display: block;
     justify-content: center;
@@ -19,6 +28,20 @@ canvas {
     left: 0px;
 }
 
+#nav-home>a {
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+#nav-home img {
+    width: 50px;
+    height: 50px;
+}
+#nav-home img:hover {
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
 #main {
     display: block;
     width: 60vw;
@@ -30,4 +53,14 @@ canvas {
     border-radius: 2px;
     box-shadow: 0px 0px 3px #ffffff;
 
+}
+
+code {
+    display: block;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px #00000020;
+    width: 100%;
+    padding: 20px;
+    background-color: #00000030;
 }
