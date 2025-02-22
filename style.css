@@ -61,6 +61,6 @@ code {
     border: 0.01rem solid grey;
     box-sizing: border-box;
     width: 100%;
-    padding: 20px;
+    padding: 10px 20px;
     background-color: #00000011;
 }
