@@ -21,6 +21,7 @@ body {
     background-color: #000419;
 }
 canvas {
+    position: fixed;
     z-index: -10;
     display: block;
     position: absolute;
@@ -63,4 +64,5 @@ code {
     width: 100%;
     padding: 10px 20px;
     background-color: #00000011;
+    overflow: scroll;
 }
