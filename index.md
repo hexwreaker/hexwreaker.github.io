@@ -38,7 +38,26 @@ AMSI's events manager at Sorbonne U.
 - [SploitScan features](https://github.com/hexwreaker/SploitScan/tree/hexwreaker-contrib)
 
 
-## CTF Write ups
+## CTF Write ups :
+[https://github.com/hexwreaker/CTFs-Writeups](https://github.com/hexwreaker/CTFs-Writeups)
 
-- [https://github.com/hexwreaker/CTFs-Writeups](https://github.com/hexwreaker/CTFs-Writeups)
+- ### EC2 2025
+    - [Reverse : Dungeon : part 1](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/dungeon-part-1)
+    - [Pwn : Sliding in the 90s](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/Sliding-in-the-90s/)
+    - [Pwn : Insecure shell](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/Insecure_shell/)
+
+- ### 404CTF
+    - [Reverse : échauffement](https://github.com/hexwreaker/CTFs-Writeups/tree/main/404CTF-2024/reverse/echauffement/)
+    - [Reverse : intronisation](https://github.com/hexwreaker/CTFs-Writeups/tree/main/404CTF-2024/reverse/intronisation/)
+
+- ### GCC
+    - [Reverse : ranSom](https://github.com/hexwreaker/CTFs-Writeups/tree/main/GCC/reverse/ranSom/)
+
+- ### Hackday : 2024
+    - [Crypto : Flip the bit](https://github.com/hexwreaker/CTFs-Writeups/tree/main/Hackday-2024/crypto/flip-the-bit/)
+    - [Reverse : CrackZip](https://github.com/hexwreaker/CTFs-Writeups/tree/main/Hackday-2024/reverse/CrackZip/)
+
+- ### Hackday : 2025
+    - [Reverse : just-dig](https://github.com/hexwreaker/CTFs-Writeups/tree/main/Hackday-2025/just-dig/)
+    - [Reverse : The cog of black mail](https://github.com/hexwreaker/CTFs-Writeups/tree/main/Hackday-2025/the_cogs_of_blackmail/)
 
