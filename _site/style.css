@@ -2,6 +2,12 @@
     font-family: 'Arial';
 }
 
+h2 {
+    border-bottom: 0.5px solid black;
+    padding-left: 4px;
+    padding-bottom: 4px;
+}
+
 img {
     width: 100%;
 }
