@@ -41,7 +41,24 @@ AMSI's events manager at Sorbonne U.
 ## CTF writeups :
 [https://github.com/hexwreaker/CTFs-Writeups](https://github.com/hexwreaker/CTFs-Writeups)
 
-#### EC2 2025
+#### FCSC 2025 (top 53 au général)
+
+- [Hardware : Grand Classic Hotel](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/hardware/grand_classic_hotel/)
+- [Hardware : Le calme avant la tempest](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/hardware/le_calme_avant_la_tempest/)
+- [Hardware : Mechanical Display](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/hardware/mechanical-display-sheet/)
+- [Pwn : Bigorneau](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/pwn/bigorneau/)
+- [Pwn : Long prime shellcode](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/pwn/long_prime_shellcode/)
+- [Pwn : Xortp](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/pwn/xortp/)
+- [Reverse : Babyfuscation](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/reverse/babyfuscation/)
+- [Reverse : Coloratops](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/reverse/coloratops/)
+- [Reverse : Hit or MIPS](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/reverse/hit_or_mips/)
+- [Side-channel attack : CryptoBro](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/side-channel-attack/cryptobro/)
+- [Forensic : Analyse memoire](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/forensic/analyse_memoire/)
+- [Forensic : iForensic](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/forensic/iForensic/)
+- [Crypto : Cocorico](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/crypto/cocorico/)
+- [Crypto : La quête de l'anneau](https://github.com/hexwreaker/CTFs-Writeups/tree/main/FCSC-2025/crypto/la_quete_de_anneau/)
+
+#### EC2 2025 (équipe Sorbonne - top 8)
 - [Reverse : Dungeon : part 1](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/dungeon-part-1)
 - [Pwn : Sliding in the 90s](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/Sliding-in-the-90s/)
 - [Pwn : Insecure shell](https://github.com/hexwreaker/CTFs-Writeups/tree/main/EC2-2025/Insecure_shell/)
