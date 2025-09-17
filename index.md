@@ -15,9 +15,13 @@ Master degree MSI at Sorbonne University.
 AMSI's events manager at Sorbonne U.
 ```
 
-==> [root-me stats  <img id='root-me-favicon' alt='root-me' src='https://www.root-me.org/favicon.ico' />](https://www.root-me.org/hexwreaker)
+==> [Root-Me stats  <img id='root-me-favicon' alt='root-me' src='https://www.root-me.org/favicon.ico' />](https://www.root-me.org/hexwreaker)
+
+==> [Pwn College stats](https://pwn.college/hacker/123681)
 
 ==> [MVRE certification (working on)](https://blogs.mtdv.me/blog/posts/MVRE-certificationq)
+
+
 
 ## Pages
 
@@ -27,6 +31,7 @@ AMSI's events manager at Sorbonne U.
 
 #### Git repos
 
+- [IDA plugin - load an external "linked DLL" into the IDA database of the binary](https://github.com/hexwreaker/)
 - [Rev0 : A firmware reversing framework (firmwares diffing and symbols linking graph)](https://github.com/hexwreaker/rev0)
 - [hack-tools : list of hacking tools, and installation scripts.](https://github.com/hexwreaker/hack-tools)
 - [Sonar Fuzzer : A black box fuzzer for no-sources target.](https://github.com/hexwreaker/sonar-fuzzer)
@@ -34,6 +39,7 @@ AMSI's events manager at Sorbonne U.
 
 #### Contribution
 
+- AMSI CTF 2025 : [ctftime](https://ctftime.org/event/2790), [discord](https://discord.gg/vatxBUqYcB), [github](https://github.com/AMSI-SU/AMSI_CTF_2025_challenges_public)
 - AMSI CTF 2024 : [ctftime](https://ctftime.org/ctf/1215/), [discord](https://discord.gg/vatxBUqYcB), [github](https://github.com/AMSI-SU/CTF-SCP2024-challenges-writeups/), [CTFd-theme-SCP](https://github.com/hexwreaker/AMSI-SCP-CTFd-theme/)
 - [Challenges creation](https://github.com/hexwreaker/AMSI-SU-CTF-SCP2024-challenges)
 - [SploitScan features](https://github.com/hexwreaker/SploitScan/tree/hexwreaker-contrib)

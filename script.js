@@ -5,7 +5,8 @@ var points = [],
     radius = 5,
     boundaryX = window.innerWidth,
     boundaryY = window.innerHeight,
-    numberOfPoints = 40;
+    numberOfPoints = 40,
+    lineColors = ['#00ffeaff', '#00F55A', '#0008ffff'];
 
 function resizeCanvas() {
     canvas.width = window.innerWidth;
@@ -69,6 +70,8 @@ function createPoint() {
     // vy^2 = velocity^2 - vx^2
     vy2 = velocity2 - vx2;
     point.vy = getRandomVelocity();
+    // Random color
+    point.color = lineColors[Math.floor(Math.random() * lineColors.length)];
     points.push(point);
 }
 
@@ -91,12 +94,12 @@ function drawCircle(x, y) {
     context.fill();
 }
 
-function drawLine(x1, y1, x2, y2, lineWidth) {
+function drawLine(x1, y1, x2, y2, lineWidth, color) {
     context.lineWidth = lineWidth; // Set line width
     context.beginPath();
     context.moveTo(x1, y1);
     context.lineTo(x2, y2);
-    context.strokeStyle = '#00F55A';
+    context.strokeStyle = color;
     context.stroke();
 }
 
@@ -116,7 +119,7 @@ function draw() {
             // Vary lineWidth between 0 and 1 over time
             var dynamicLineWidth = 0.5 + 0.5 * Math.sin(time + i * 0.5);
 
-            drawLine(point.x, point.y, buddy.x, buddy.y, dynamicLineWidth);
+            drawLine(point.x, point.y, buddy.x, buddy.y, dynamicLineWidth, point.color);
         }
 
         // Check for edge collisions
