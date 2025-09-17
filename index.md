@@ -21,8 +21,6 @@ AMSI's events manager at Sorbonne U.
 
 ==> [MVRE certification (working on)](https://blogs.mtdv.me/blog/posts/MVRE-certificationq)
 
-
-
 ## Pages
 
 1. [Exploitpedia](/pages/exploitpedia/exploitpedia)
@@ -31,7 +29,7 @@ AMSI's events manager at Sorbonne U.
 
 #### Git repos
 
-- [IDA plugin - load an external "linked DLL" into the IDA database of the binary](https://github.com/hexwreaker/)
+- [Reverse engineering of KingdomCome Deliverance save system](https://github.com/hexwreaker/Reverse-engineering-of-KingdomCome-save-system/blob/main/README.md)
 - [Rev0 : A firmware reversing framework (firmwares diffing and symbols linking graph)](https://github.com/hexwreaker/rev0)
 - [hack-tools : list of hacking tools, and installation scripts.](https://github.com/hexwreaker/hack-tools)
 - [Sonar Fuzzer : A black box fuzzer for no-sources target.](https://github.com/hexwreaker/sonar-fuzzer)
