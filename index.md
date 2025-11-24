@@ -1,33 +1,13 @@
 ---
 layout: default
-title: Hexwreaker blog
+title: Hexwreaker
 ---
-
-# Hexwreaker blog
-
-<img src="/src/images/shark_little.png" style="margin:  auto; width: 5vw; height: 5vw;" />
-
-## Presentation
-
-```
-A cybersecurity netrunner specialized in low-level research.
-Master degree MSI at Sorbonne University.
-AMSI's events manager at Sorbonne U.
-```
-
-==> [Root-Me stats  <img id='root-me-favicon' alt='root-me' src='https://www.root-me.org/favicon.ico' />](https://www.root-me.org/hexwreaker)
-
-==> [Pwn College stats](https://pwn.college/hacker/123681)
-
-==> [MVRE certification (working on)](https://blogs.mtdv.me/blog/posts/MVRE-certificationq)
 
 ## Pages
 
 1. [Exploitpedia](/pages/exploitpedia/exploitpedia)
 
 ## Projects
-
-#### Git repos
 
 - [Reverse engineering of KingdomCome Deliverance save system](https://github.com/hexwreaker/Reverse-engineering-of-KingdomCome-save-system/blob/main/README.md)
 - [Rev0 : A firmware reversing framework (firmwares diffing and symbols linking graph)](https://github.com/hexwreaker/rev0)
