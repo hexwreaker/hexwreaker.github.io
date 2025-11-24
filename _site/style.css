@@ -118,9 +118,9 @@ canvas {
     display: block;
     width: max-content;
     max-width: 90vw;
-    min-height: 96vh;
+    min-height: 110vh;
     box-sizing: border-box;
-    margin: 0px auto 50px auto;
+    margin: 0px auto;
     padding: 2vw;
     background-color: #000419;
     border-radius: 2px;
