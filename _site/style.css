@@ -22,6 +22,10 @@ img {
     width: 100%;
 }
 
+#root-me-favicon {
+    width: 20px;
+    height: 20px;
+}
 
 #image-profile {
     display: table-cell;
@@ -65,8 +69,8 @@ body {
     justify-content: center;
     align-items: center;
     width: 100vw;
-    min-height: 100vh;
-    margin: 0;
+    min-height: 96vh;
+    margin: 4vh 0 0 0;
     background-color: #000419;
 }
 canvas {
@@ -95,15 +99,9 @@ canvas {
 .social-icons {
     text-align: center;
     margin-bottom: 1rem;
-    height: 4rem;
-    vertical-align: middle
 }
 .social-icons>a {
     /* width: 2rem; */
-    vertical-align: middle
-}
-.social-icons img:hover {
-    filter: drop-shadow(0px 0px 4px #00ff9fff);
 }
 .images-contacts {
     width: 2rem;
@@ -112,28 +110,22 @@ canvas {
     width: 5rem;
 }
 .root-me-svg {
-    width: 2.5rem;
+    filter: invert(1);
+    width: 3rem;
 }
 
 #main {
     display: block;
     width: max-content;
     max-width: 90vw;
-    min-height: 110vh;
+    min-height: 96vh;
     box-sizing: border-box;
-    margin: 0px auto 0px auto;
-    padding: 2vw 4vw;
+    margin: 0px auto 50px auto;
+    padding: 2vw;
     background-color: #000419;
-    box-shadow: 0px 0px 5px 2px #00ff9f;
-}
-
-#main ul {
-    white-space: nowrap;
-    overflow: scroll;
-}
-
-#main * {
-    max-width: 1000px;
+    border-radius: 2px;
+    box-shadow: 0px 0px 5px 0px #00ff9f;
+    border-radius: 10px;
 }
 
 code {
