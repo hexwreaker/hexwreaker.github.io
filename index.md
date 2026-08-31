@@ -9,6 +9,7 @@ title: Hexwreaker
 
 ## Projects
 
+- [RE : A quick look at tenda F3 N300 router](https://github.com/hexwreaker/A-quick-look-at-Tenda-F3-N300-router)
 - [Reverse engineering of KingdomCome Deliverance save system](https://github.com/hexwreaker/Reverse-engineering-of-KingdomCome-save-system/blob/main/README.md)
 - [Rev0 : A firmware reversing framework (firmwares diffing and symbols linking graph)](https://github.com/hexwreaker/rev0)
 - [hack-tools : list of hacking tools, and installation scripts.](https://github.com/hexwreaker/hack-tools)
